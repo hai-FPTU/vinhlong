@@ -1,9 +1,0 @@
-/* In danh mục tự kiểm tra, trang nội dung. */
-@page { size: A4; margin: 18mm 18mm 20mm 25mm; }
-.topbar, .sidebar, .no-print, .wg-actions, .pager, #toast, .skip { display: none !important; }
-body { background: #fff; }
-.shell { display: block; }
-main { padding: 0; }
-.ck, .takeaways { break-inside: avoid; }
-.takeaways { background: #fff; color: #000; border: 1px solid #999; }
-.takeaways h2 { color: #000; }
