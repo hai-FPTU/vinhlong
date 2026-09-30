@@ -1,0 +1,16 @@
+{
+  "name": "Tập huấn nhận thức an toàn thông tin cho cán bộ, công chức khối Đảng",
+  "short_name": "Tập huấn ATTT",
+  "description": "Giáo trình tương tác an toàn thông tin cho cán bộ, công chức khối Đảng",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F4F7",
+  "theme_color": "#15233B",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
